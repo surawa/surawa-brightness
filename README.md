@@ -8,7 +8,7 @@ Requirements
 =================
 
 Needs to install and refer to https://github.com/surawa/surawabone.git
-
+Please refer to /schema/schema.png for informations about the hardware requirements
 
 What is it ?
 =================
@@ -23,3 +23,7 @@ Server is listening on his IP (obtained by DHCP) and on port 8080
 The prototype ressource is available on URL : http://<IP>:8080/surawa/brightness/value
 
 
+
+How does it work ?
+=================
+http://ascii.io/a/1764
